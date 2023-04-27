@@ -1,0 +1,6 @@
+.idea/
+/vendor
+/config/idgobpe_config.json
+composer.lock
+*.log*
+pcm_idgobpe.json
